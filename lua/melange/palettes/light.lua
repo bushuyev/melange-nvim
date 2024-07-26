@@ -1,7 +1,7 @@
 -- stylua: ignore
 return {
   a = {
-    bg      = "#FF0000",
+    bg      = "#FAFAFA",
     float   = "#E9E1DB",
     sel     = "#D9D3CE",
     ui      = "#A98A78",
